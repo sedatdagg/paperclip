@@ -298,7 +298,7 @@
     "packages/shared/src/muse-invitations.ts": "fe464a54c374d5621137225773cb2635c2e3eb01",
     "packages/shared/src/muse-protocol.test.ts": "6dbb45d82a5ff73953003d7304d6a356cb72521d",
     "packages/shared/src/muse-protocol.ts": "56f3121fd1972bb9c84db0f6696449557111ace9",
-    "packages/shared/src/network-bind.ts": "eeda9c5028670dc928115c7355ea9e2df2551cb1",
+    "packages/shared/src/network-bind.ts": "6d0e7cc36ac9042ca890f1669c40ca4419ba808e",
     "packages/shared/src/node-version.ts": "9a7766a8324122ce41738918bb0125398b9657e1",
     "packages/shared/src/oauth-endpoint-url.test.ts": "7f7ad634b3de7f25513e6c8b6426e1285d079e12",
     "packages/shared/src/oauth-endpoint-url.ts": "5ea73648dc5df103881e40e8ed920e38d901760a",
